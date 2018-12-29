@@ -1,6 +1,6 @@
 # hello-world
 
-<h1>Self-Introduction</h1>
+<h2>Self-Introduction</h2>
 
 Hi Humans!
 
